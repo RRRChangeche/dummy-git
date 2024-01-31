@@ -1,7 +1,7 @@
 # Dummy Git practicing material
 
-eddie@5xruby.tw
-111222333  
+eddie@5xcampus.com
+
 Hello Git
 
-Hi! it is Shawn
+Git is a good tool for every developer.
